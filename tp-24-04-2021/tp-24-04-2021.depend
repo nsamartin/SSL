@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619267839 source:c:\users\hp probook\documents\nina\sintaxis y semántica de los lenguajes\tp-24-04-2021\main.c
+	<stdio.h>
+	<stdlib.h>
+
